@@ -12,6 +12,7 @@
         <module>user-service</module>
         <module>car-service</module>
         <module>booking-service</module>
+        <module>common-events</module>
     </modules>
 
     <properties>
